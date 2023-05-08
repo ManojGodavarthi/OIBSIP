@@ -1,0 +1,37 @@
+table {
+    text-align: center;
+    background-color: snow;
+    padding: 20px 20px;
+    border-radius: 10px;
+  }
+  body {
+    background-color: rgb(17, 108, 182);
+  }
+  input {
+    height: 50px;
+    width: 205px;
+    margin-left: 3px;
+    background-color: rgb(195, 231, 245);
+    border-radius: 5px;
+    border: none;
+    text-align: end;
+  }
+  .button {
+    width: 45px;
+    height: 35px;
+    border-radius: 6px;
+    border: none;
+    margin: 7px 0px 0px 5px;
+    background-color: rgb(198, 198, 235);
+    cursor: pointer;
+  }
+  .clear-button {
+    width: 208px;
+    margin-left: 8px;
+    height: 35px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(181, 243, 184);
+  }
+  
